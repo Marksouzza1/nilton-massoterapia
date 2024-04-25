@@ -20,10 +20,10 @@
         <div class="flex flex-col md:flex-row md:gap-8">
             <!-- Wedding service start -->
             <div class="flex flex-row md:flex-col justify-between md:justify-start items-center md:items-start my-8 md:w-1/3">
-                <img src="@/assets/services/wedding.png" alt="Wedding" class="-z-50 md:mb-4">
+                <img src="@/assets/services/massagem.png" alt="Wedding" class="-z-50 md:mb-4">
                 <div class="w-2/3 text-right md:text-left md:w-full">
                     <h1 class="uppercase text-2xl font-semibold">
-                        Wedding
+                        Lorem ipsum
                     </h1>
                     <p class="capitalize text-stone-500">
                         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, neque?
@@ -36,24 +36,24 @@
             <div class="flex flex-row md:flex-col justify-between items-center md:items-start my-8 md:w-1/3">
                 <div class="w-2/3 text-left md:w-full md:order-2">
                     <h1 class="uppercase text-2xl font-semibold">
-                        Lifestyle
+                        Lorem ipsum
                     </h1>
                     <p class="capitalize text-stone-500">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ratione!
                     </p>
                 </div>
-                <img src="@/assets/services/lifestyle.png" alt="Lifestyle" class="-z-50 md:mb-4 md:order-1">
+                <img src="@/assets/services/ventosas.png" alt="Lifestyle" class="-z-50 md:mb-4 md:order-1">
             </div>
             <!-- Wedding service end -->
 
             <!-- Wedding service start -->
             <div class="flex flex-row md:flex-col justify-between items-center md:items-start my-8 md:w-1/3">
                 <div class="w-1/3">
-                    <img src="@/assets/services/moments.png" alt="Moments" class="-z-50 md:mb-4">
+                    <img src="@/assets/services/quiropraxia.png" alt="quiropraxia" class="-z-50 md:mb-4">
                 </div>
                 <div class="w-2/3 text-right md:text-left md:w-full">
                     <h1 class="uppercase text-2xl font-semibold">
-                        Moments
+                        Lorem ipsum
                     </h1>
                     <p class="capitalize text-stone-500">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, molestias.

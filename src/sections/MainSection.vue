@@ -4,11 +4,11 @@
 		<div class="w-full md:w-1/2 h-full flex flex-col md:justify-center ">
 			<!-- Main text start -->
 			<h1 class="uppercase text-5xl xl:text-7xl mb-4 font-semibold ">
-				CAPTURING
-				BEAUTY PHOTO
+				Lorem Ipsum?
+				Lorem Ipsum
 			</h1>
 			<p class="capitalize xl:w-1/2 text-stone-500">
-				a camera is an optical instrument that captures a visual image at their most basic, cameras are sealed
+				Lorem ipsum dolor sit amet. Eum iure galisum At optio voluptas vel autem voluptates nam accusamus
 			</p>
 			<!-- Main text end -->
 
