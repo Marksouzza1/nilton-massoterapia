@@ -4,30 +4,24 @@
 		<div class="w-full md:w-1/2 h-full flex flex-col md:justify-center ">
 			<!-- Main text start -->
 			<h1 class="uppercase text-5xl xl:text-7xl mb-4 font-semibold ">
-				Lorem Ipsum?
-				Lorem Ipsum
+				MASSOTERAPIA 
+				INTELIGENTE
 			</h1>
 			<p class="capitalize xl:w-1/2 text-stone-500">
-				Lorem ipsum dolor sit amet. Eum iure galisum At optio voluptas vel autem voluptates nam accusamus
+				Diminuição das dores cientificamente provada
 			</p>
 			<!-- Main text end -->
 
 			<!-- Social links start -->
 			<div class="flex mt-3 gap-8">
-				<a href="#">
+				<a href="https://www.instagram.com/niltonalves_terapia/">
 					<i class="fa-brands fa-instagram socialIcon"></i>
 				</a>
+					<a href="https://api.whatsapp.com/message/C243SEMOIDA4O1?autoload=1&app_absent=0">
+						<i class="fa-brands fa-whatsapp socialIcon"></i>
+					</a>
 				<a href="#">
 					<i class="fa-brands fa-linkedin socialIcon"></i>
-				</a>
-				<a href="#">
-					<i class="fa-brands fa-facebook socialIcon"></i>
-				</a>
-				<a href="#">
-					<i class="fa-brands fa-dribbble socialIcon"></i>
-				</a>
-				<a href="#">
-					<i class="fa-brands fa-pinterest socialIcon"></i>
 				</a>
 			</div>
 			<!-- Social links end -->
@@ -35,7 +29,7 @@
 
 		<!-- Photographer image start -->
 		<div class="absolute bottom-0 right-0 overflow-hidden h-2/5 sm:h-1/2 md:h-3/5 lg:h-4/6 -z-50">
-			<img src="@/assets/image.jpg" alt="img" class="h-full">
+			<img src="@/assets/image4.png" alt="img" >
 		</div>
 
 		<!-- Photographer image end -->
