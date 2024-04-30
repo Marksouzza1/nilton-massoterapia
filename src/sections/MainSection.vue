@@ -28,9 +28,9 @@
 		</div>
 
 		<!-- Photographer image start -->
-		<div class="absolute bottom-0 right-0 overflow-hidden h-2/5 sm:h-1/2 md:h-3/5 lg:h-4/6 -z-50">
+		<!-- <div class="absolute bottom-0 right-0 overflow-hidden h-2/5 sm:h-1/2 md:h-3/5 lg:h-4/6 -z-50">
 			<img src="@/assets/image4.png" alt="img" >
-		</div>
+		</div> -->
 
 		<!-- Photographer image end -->
 

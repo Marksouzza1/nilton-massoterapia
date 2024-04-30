@@ -31,7 +31,7 @@
 				<p class="mx-4">Sobre</p>
 			</a>
 
-			<a href="#" role="menuitem">
+			<a href="https://maps.app.goo.gl/xb4vrTLd8Zp8DGvs8" role="menuitem">
 				<p class="mx-4">Localizção</p>
 			</a>
 
