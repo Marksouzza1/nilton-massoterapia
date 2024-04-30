@@ -27,12 +27,11 @@
 			<!-- Social links end -->
 		</div>
 
-		<!-- Photographer image start -->
+		
 		<!-- <div class="absolute bottom-0 right-0 overflow-hidden h-2/5 sm:h-1/2 md:h-3/5 lg:h-4/6 -z-50">
 			<img src="@/assets/image4.png" alt="img" >
 		</div> -->
 
-		<!-- Photographer image end -->
 
 		<!-- "More" button start -->
 		<div class="w-full h-20 flex justify-start md:justify-center items-center">
