@@ -3,7 +3,7 @@
 	<section class="h-screen px-12 lg:px-32 py-32 mb-8">
 		<div class="w-full md:w-1/2 h-full flex flex-col md:justify-center ">
 			<!-- Main text start -->
-			<h1 class="uppercase text-5xl xl:text-7xl mb-4 font-semibold ">
+			<h1 class="uppercase text-4xl xl:text-7xl mb-4 font-semibold ">
 				MASSOTERAPIA 
 				INTELIGENTE
 			</h1>
