@@ -5,7 +5,7 @@
         <div class="flex gap-8 flex-col md:flex-row">
             <!-- Main text start -->
             <h1 class="uppercase text-5xl mb-4 font-semibold ">
-                OUR PORTFOLIO
+                A CLINICA
             </h1>
             <p class="capitalize xl:w-1/2 text-stone-500 mb-8">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit dolores distinctio reiciendis obcaecati ea.
@@ -17,14 +17,14 @@
         <!-- Images grid start -->
 		<div class="grid-cols-2 md:grid-cols-5 grid mb-8 gap-4">
             <div class="grid grid-cols-1 md:hidden gap-4">
-                <img src="@/assets/portfolio/portfolio1.jpg" alt="1" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio2.jpg" alt="2" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio3.jpg" alt="3" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio4.jpg" alt="4" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio5.jpg" alt="5" class="rounded-xl">
+                <img src="@/assets/portfolio/clinica1.png" alt="1" class="rounded-xl">
+                <img src="@/assets/portfolio/clinica2.png" alt="2" class="rounded-xl">
+                <img src="@/assets/portfolio/clinica3.png" alt="3" class="rounded-xl">
+                <img src="@/assets/portfolio/clinica4.png" alt="4" class="rounded-xl">
+                <img src="@/assets/portfolio/clinica5.png" alt="5" class="rounded-xl">
             </div>
             <div class="grid grid-cols-1 md:hidden gap-4">
-                <img src="@/assets/portfolio/portfolio6.jpg" alt="6" class="rounded-xl">
+                <img src="@/assets/portfolio/clinica6.png" alt="6" class="rounded-xl">
                 <img src="@/assets/portfolio/portfolio7.jpg" alt="7" class="rounded-xl">
                 <img src="@/assets/portfolio/portfolio8.jpg" alt="8" class="rounded-xl">
                 <img src="@/assets/portfolio/portfolio9.jpg" alt="9" class="rounded-xl">
@@ -32,20 +32,20 @@
             </div>
 
             <div class="hidden md:flex flex-col gap-4">
-                <img src="@/assets/portfolio/portfolio1.jpg" alt="1" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio2.jpg" alt="2" class="rounded-xl">
+                <img src="@/assets/portfolio/clinica1.png" alt="1" class="rounded-xl">
+                <img src="@/assets/portfolio/clinica2.png" alt="2" class="rounded-xl">
             </div>
             <div class="hidden md:flex flex-col gap-4">
-                <img src="@/assets/portfolio/portfolio3.jpg" alt="1" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio4.jpg" alt="2" class="rounded-xl">
+                <img src="@/assets/portfolio/clinica3.png" alt="1" class="rounded-xl">
+                <img src="@/assets/portfolio/clinica4.png" alt="2" class="rounded-xl">
             </div>
             <div class="hidden md:flex flex-col gap-4">
                 <img src="@/assets/portfolio/portfolio8.jpg" alt="2" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio5.jpg" alt="2" class="rounded-xl">
+                <img src="@/assets/portfolio/clinica5.png" alt="2" class="rounded-xl">
             </div>
             <div class="hidden md:flex flex-col gap-4">
                 <img src="@/assets/portfolio/portfolio7.jpg" alt="1" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio6.jpg" alt="2" class="rounded-xl">
+                <img src="@/assets/portfolio/clinica6.png" alt="2" class="rounded-xl">
             </div>
             <div class="hidden md:flex flex-col gap-4">
                 <img src="@/assets/portfolio/portfolio9.jpg" alt="1" class="rounded-xl">
