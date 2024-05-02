@@ -46,11 +46,12 @@
 </template>
 
 <script>
+import logo from '@/assets/img/logo.png';
 
 export default {
 	data() {
 		return {
-			logo: require("@/assets/img/logo.png"),
+			logo: logo,
 		};
 	},
     methods: {
