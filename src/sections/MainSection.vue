@@ -20,8 +20,8 @@
 					<a href="https://api.whatsapp.com/message/C243SEMOIDA4O1?autoload=1&app_absent=0">
 						<i class="fa-brands fa-whatsapp socialIcon"></i>
 					</a>
-				<a href="#">
-					<i class="fa-brands fa-linkedin socialIcon"></i>
+				<a href="#about-section">
+					<i class="fa-brands fa-facebook-f socialIcon	"></i>
 				</a>
 			</div>
 			<!-- Social links end -->

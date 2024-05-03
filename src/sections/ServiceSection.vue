@@ -24,9 +24,9 @@
                     <h1 class="uppercase text-2xl font-semibold">
                         Liberação Miofascial 
                     </h1>
-                    <p class="capitalize text-stone-500">
-                        A liberação miofascial é um procedimento que visa amenizar as dores musculares causadas por tensão. Por meio de pressão sobre o local 
-                    </p>
+                        <p class="capitalize text-stone-500">
+                            A liberação miofascial é um procedimento que visa amenizar as dores musculares causadas por tensão. Por meio de pressão sobre o local 
+                        </p>
                 </div>
             </div>
             <div class="flex flex-row md:flex-col justify-between items-center md:items-start my-8 md:w-1/3">

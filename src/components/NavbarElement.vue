@@ -35,7 +35,7 @@
 				<p class="mx-4">Localizção</p>
 			</a>
 
-			<button class="btn" role="menuitem">
+			<button @click="goToContact()" class="btn" role="menuitem">
 				Contato
 			</button>
 			<!-- Links end -->
@@ -65,6 +65,12 @@ export default {
 		},
 		goTolink() {
 			window.open("https://maps.app.goo.gl/xb4vrTLd8Zp8DGvs8","_blank");	
+		},
+		goToContact() {
+            const contactSection = document.getElementById('contact-section');
+            if (contactSection) {
+                contactSection.scrollIntoView({ behavior: 'smooth' });
+            }
 		},
     }
 }
