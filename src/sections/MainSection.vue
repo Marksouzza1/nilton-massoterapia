@@ -8,7 +8,7 @@
 				INTELIGENTE
 			</h1>
 			<p class="capitalize xl:w-1/2 text-stone-500">
-				Diminuição das dores cientificamente provada
+				Massoterapia esportiva. Foco em resolução de dores musculares e performance
 			</p>
 			<!-- Main text end -->
 
@@ -20,7 +20,7 @@
 					<a href="https://api.whatsapp.com/message/C243SEMOIDA4O1?autoload=1&app_absent=0">
 						<i class="fa-brands fa-whatsapp socialIcon"></i>
 					</a>
-				<a href="#about-section">
+				<a href="https://www.facebook.com/people/NiltonAlves-Terapias-Manuais/100090177900793/?mibextid=qi2Omg&rdid=hiFJ8zk9mO8uY2k7&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fc6b8WHAQHziQ74wo%2F%3Fmibextid%3Dqi2Omg">
 					<i class="fa-brands fa-facebook-f socialIcon	"></i>
 				</a>
 			</div>

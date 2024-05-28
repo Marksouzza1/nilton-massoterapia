@@ -17,47 +17,47 @@
         <!-- Images grid start -->
 		<div class="grid-cols-2 md:grid-cols-5 grid mb-8 gap-4">
             <div class="grid grid-cols-1 md:hidden gap-4">
-                <img src="@/assets/portfolio/clinica1.png" alt="1" class="rounded-xl">
-                <img src="@/assets/portfolio/clinica2.png" alt="2" class="rounded-xl">
-                <img src="@/assets/portfolio/clinica3.png" alt="3" class="rounded-xl">
-                <img src="@/assets/portfolio/clinica4.png" alt="4" class="rounded-xl">
-                <img src="@/assets/portfolio/clinica5.png" alt="5" class="rounded-xl">
+                <img src="@/assets/clinica/clinica1.png" alt="1" class="rounded-xl">
+                <img src="@/assets/clinica/clinica2.png" alt="2" class="rounded-xl">
+                <img src="@/assets/clinica/clinica3.png" alt="3" class="rounded-xl">
+                <img src="@/assets/clinica/clinica4.png" alt="4" class="rounded-xl">
+                <img src="@/assets/clinica/clinica5.png" alt="5" class="rounded-xl">
             </div>
             <div class="grid grid-cols-1 md:hidden gap-4">
-                <img src="@/assets/portfolio/clinica6.png" alt="6" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio7.jpg" alt="7" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio8.jpg" alt="8" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio9.jpg" alt="9" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio10.jpg" alt="10" class="rounded-xl">
+                <img src="@/assets/clinica/clinica6.png" alt="6" class="rounded-xl">
+                <img src="@/assets/clinica/clinica7.webp" alt="7" class="rounded-xl">
+                <img src="@/assets/clinica/clinica8.webp" alt="8" class="rounded-xl">
+                <img src="@/assets/clinica/clinica9.webp" alt="9" class="rounded-xl">
+                <img src="@/assets/clinica/clinica10.webp" alt="10" class="rounded-xl">
             </div>
 
             <div class="hidden md:flex flex-col gap-4">
-                <img src="@/assets/portfolio/clinica1.png" alt="1" class="rounded-xl">
-                <img src="@/assets/portfolio/clinica2.png" alt="2" class="rounded-xl">
+                <img src="@/assets/clinica/clinica1.png" alt="1" class="rounded-xl">
+                <img src="@/assets/clinica/clinica2.png" alt="2" class="rounded-xl">
             </div>
             <div class="hidden md:flex flex-col gap-4">
-                <img src="@/assets/portfolio/clinica3.png" alt="1" class="rounded-xl">
-                <img src="@/assets/portfolio/clinica4.png" alt="2" class="rounded-xl">
+                <img src="@/assets/clinica/clinica3.png" alt="1" class="rounded-xl">
+                <img src="@/assets/clinica/clinica4.png" alt="2" class="rounded-xl">
             </div>
             <div class="hidden md:flex flex-col gap-4">
-                <img src="@/assets/portfolio/portfolio8.jpg" alt="2" class="rounded-xl">
-                <img src="@/assets/portfolio/clinica5.png" alt="2" class="rounded-xl">
+                <img src="@/assets/clinica/clinica8.webp" alt="2" class="rounded-xl">
+                <img src="@/assets/clinica/clinica5.png" alt="2" class="rounded-xl">
             </div>
             <div class="hidden md:flex flex-col gap-4">
-                <img src="@/assets/portfolio/portfolio7.jpg" alt="1" class="rounded-xl">
-                <img src="@/assets/portfolio/clinica6.png" alt="2" class="rounded-xl">
+                <img src="@/assets/clinica/clinica7.webp" alt="1" class="rounded-xl">
+                <img src="@/assets/clinica/clinica6.png" alt="2" class="rounded-xl">
             </div>
             <div class="hidden md:flex flex-col gap-4">
-                <img src="@/assets/portfolio/portfolio9.jpg" alt="1" class="rounded-xl">
-                <img src="@/assets/portfolio/portfolio10.jpg" alt="2" class="rounded-xl">
+                <img src="@/assets/clinica/clinica9.webp" alt="1" class="rounded-xl">
+                <img src="@/assets/clinica/clinica10.webp" alt="2" class="rounded-xl">
             </div>
         </div>
 		<!-- Images grid end -->
 
         <!-- "More" link start -->
-        <a href="#" class="text-end">
+        <a href="https://www.instagram.com/niltonalves_terapia/" class="text-end">
             <p class="font-semibold text-lg group relative">
-                <span>Show more photos </span>
+                <span>Veja mais no instagaram </span>
                 <i class="fa-solid fa-arrow-right"></i>
             </p>
         </a>

@@ -14,12 +14,12 @@
 		<!-- Main text end -->
 
         <!-- "More" link start -->
-        <a href="#" class="text-end">
+        <!-- <a href="#" class="text-end">
             <p class="font-semibold text-lg group relative">
                 <span>Read more </span>
                 <i class="fa-solid fa-arrow-right"></i>
             </p>
-        </a>
+        </a> -->
         <!-- "More" link end -->
 
         <!-- Circle start -->

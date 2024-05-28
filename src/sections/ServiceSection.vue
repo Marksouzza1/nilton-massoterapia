@@ -5,13 +5,13 @@
         <div class="flex gap-8 flex-col md:flex-row">
             <!-- Main text start -->
             <h1 class="uppercase text-5xl mb-4 font-semibold ">
-                OUR SERVICES
+                    NOSSOS SERVIÇOS
             </h1>
-            <p class="capitalize xl:w-1/2 text-stone-500 mb-8">
+            <!-- <p class="capitalize xl:w-1/2 text-stone-500 mb-8">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Cupiditate iure rem harum, quam magnam accusamus inventore incidunt nihil, fuga soluta earum!
                 Voluptatibus, recusandae. Cumque sequi ullam, nostrum voluptatum eius saepe.
-            </p>
+            </p> -->
             <!-- Main text end -->
         </div>
         <!-- Text wrapper end -->
@@ -24,9 +24,9 @@
                     <h1 class="uppercase text-2xl font-semibold">
                         Liberação Miofascial 
                     </h1>
-                        <p class="capitalize text-stone-500">
+                        <!-- <p class="capitalize text-stone-500">
                             A liberação miofascial é um procedimento que visa amenizar as dores musculares causadas por tensão. Por meio de pressão sobre o local 
-                        </p>
+                        </p> -->
                 </div>
             </div>
             <div class="flex flex-row md:flex-col justify-between items-center md:items-start my-8 md:w-1/3">
@@ -34,9 +34,9 @@
                     <h1 class="uppercase text-2xl font-semibold">
                         Ventosaterapia
                     </h1>
-                    <p class="capitalize text-stone-500">
+                    <!-- <p class="capitalize text-stone-500">
                         Ventosaterapia é uma forma de medicina alternativa no qual é feita uma sucção na pele através de ventosas.
-                    </p>
+                    </p> -->
                 </div>
                 <img src="@/assets/services/ventosas.png" alt="Ventosas" class="-z-50 md:mb-4 md:order-1">
             </div>
@@ -48,9 +48,9 @@
                     <h1 class="uppercase text-2xl font-semibold">
                         Quiropraxia
                     </h1>
-                    <p class="capitalize text-stone-500">
+                    <!-- <p class="capitalize text-stone-500">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, molestias.
-                    </p>
+                    </p> -->
                 </div>
             </div>
             <!-- Wedding service end -->
