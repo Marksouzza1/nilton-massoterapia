@@ -1,6 +1,6 @@
 # nilton-massoterapia
 
-This template should help get you started developing with Vue 3 in Vite.
+Landing page de um massoterapeuta construido com vue3 + vite
 
 ## Recommended IDE Setup
 
